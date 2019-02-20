@@ -18,13 +18,13 @@
     "@sudoo/tslint-config": "^1.2.0",
     "@types/chai": "^4.1.7",
     "@types/chance": "^1.0.1",
-    "@types/mocha": "^5.2.5",
+    "@types/mocha": "^5.2.6",
     "chai": "^4.2.0",
     "chance": "^1.0.18",
     "mocha": "^6.0.0",
-    "ts-node": "^8.0.1",
+    "ts-node": "^8.0.2",
     "tslint": "^5.12.1",
-    "typescript": "^3.2.4"
+    "typescript": "^3.3.3"
   },
   "homepage": "https://github.com/SudoDotDog/Sudoo-Triforce#readme"
 }
