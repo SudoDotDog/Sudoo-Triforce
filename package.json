@@ -17,15 +17,15 @@
   "dependencies": {
     "@sudoo/tslint-config": "^1.2.0",
     "@types/chai": "^4.1.7",
-    "@types/chance": "^1.0.2",
+    "@types/chance": "^1.0.4",
     "@types/mocha": "^5.2.6",
-    "@types/node": "^12.0.0",
+    "@types/node": "^12.0.2",
     "chai": "^4.2.0",
     "chance": "^1.0.18",
     "mocha": "^5.2.0",
     "ts-node": "^8.1.0",
     "tslint": "^5.16.0",
-    "typescript": "^3.4.3"
+    "typescript": "^3.4.5"
   },
   "homepage": "https://github.com/SudoDotDog/Sudoo-Triforce#readme"
 }
