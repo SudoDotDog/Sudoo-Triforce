@@ -38,10 +38,10 @@
   resolved "https://registry.yarnpkg.com/@types/mocha/-/mocha-5.2.6.tgz#b8622d50557dd155e9f2f634b7d68fd38de5e94b"
   integrity sha512-1axi39YdtBI7z957vdqXI4Ac25e7YihYQtJa+Clnxg1zTJEaIRbndt71O3sP4GAMgiAm0pY26/b9BrY4MR/PMw==
 
-"@types/node@^12.0.2":
-  version "12.0.2"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-12.0.2.tgz#3452a24edf9fea138b48fad4a0a028a683da1e40"
-  integrity sha512-5tabW/i+9mhrfEOUcLDu2xBPsHJ+X5Orqy9FKpale3SjDA17j5AEpYq5vfy3oAeAHGcvANRCO3NV3d2D6q3NiA==
+"@types/node@^12.0.3":
+  version "12.0.3"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-12.0.3.tgz#5d8d24e0033fc6393efadc85cb59c1f638095c9a"
+  integrity sha512-zkOxCS/fA+3SsdA+9Yun0iANxzhQRiNwTvJSr6N95JhuJ/x27z9G2URx1Jpt3zYFfCGUXZGL5UDxt5eyLE7wgw==
 
 ansi-styles@^3.2.1:
   version "3.2.1"
@@ -379,7 +379,7 @@ supports-color@^5.3.0:
   dependencies:
     has-flag "^3.0.0"
 
-ts-node@^8.1.0:
+ts-node@^8.2.0:
   version "8.2.0"
   resolved "https://registry.yarnpkg.com/ts-node/-/ts-node-8.2.0.tgz#4a89754b00560bb24cd54526e1685fa38c45f240"
   integrity sha512-m8XQwUurkbYqXrKqr3WHCW310utRNvV5OnRVeISeea7LoCWVcdfeB/Ntl8JYWFh+WRoUAdBgESrzKochQt7sMw==
@@ -426,10 +426,10 @@ type-detect@^4.0.0, type-detect@^4.0.5:
   resolved "https://registry.yarnpkg.com/type-detect/-/type-detect-4.0.8.tgz#7646fb5f18871cfbb7749e69bd39a6388eb7450c"
   integrity sha512-0fr/mIH1dlO+x7TlcMy+bIDqKPsw/70tVyeHW787goQjhmqaZe10uwLujubK9q9Lg6Fiho1KUKDYz0Z7k7g5/g==
 
-typescript@^3.4.5:
-  version "3.4.5"
-  resolved "https://registry.yarnpkg.com/typescript/-/typescript-3.4.5.tgz#2d2618d10bb566572b8d7aad5180d84257d70a99"
-  integrity sha512-YycBxUb49UUhdNMU5aJ7z5Ej2XGmaIBL0x34vZ82fn3hGvD+bgrMrVDpatgz2f7YxUMJxMkbWxJZeAvDxVe7Vw==
+typescript@^3.5.1:
+  version "3.5.1"
+  resolved "https://registry.yarnpkg.com/typescript/-/typescript-3.5.1.tgz#ba72a6a600b2158139c5dd8850f700e231464202"
+  integrity sha512-64HkdiRv1yYZsSe4xC1WVgamNigVYjlssIoaH2HcZF0+ijsk5YK2g0G34w9wJkze8+5ow4STd22AynfO6ZYYLw==
 
 wrappy@1:
   version "1.0.2"
