@@ -18,10 +18,10 @@
     esutils "^2.0.2"
     js-tokens "^4.0.0"
 
-"@sudoo/tslint-config@^1.4.0":
-  version "1.4.0"
-  resolved "https://registry.yarnpkg.com/@sudoo/tslint-config/-/tslint-config-1.4.0.tgz#c47709f0e801a33689e5456d8160ccc78a7b6b58"
-  integrity sha512-mzFPTtWs2v93Z66j2TJF3fZVwkj63L4lXtyhn7fCSVpdvfOMJK8+kaPag2IDQp89Sf3CqwKMPy3vlBojpLCBlg==
+"@sudoo/tslint-config@^1.5.0":
+  version "1.5.0"
+  resolved "https://registry.yarnpkg.com/@sudoo/tslint-config/-/tslint-config-1.5.0.tgz#e512497ee8d111c98bc690fc7c6470c0269178b6"
+  integrity sha512-W2eGNKP8GMU0U5afYgNcx6tiGcBYNlLsz3C4MbYHnJRUfSoXkjhkPCBWZTq/iuq/Uzd2KhAm0PCYlTl7Od1Mag==
 
 "@types/chai@^4.1.7":
   version "4.1.7"
