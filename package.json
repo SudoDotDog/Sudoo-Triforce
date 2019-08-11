@@ -1,6 +1,6 @@
 {
   "name": "@sudoo/triforce",
-  "version": "1.8.1",
+  "version": "1.8.2",
   "description": ":triangular_ruler: Manage dependency here!",
   "repository": {
     "type": "git",
@@ -15,8 +15,8 @@
     "url": "https://github.com/SudoDotDog/Sudoo-Triforce/issues"
   },
   "dependencies": {
-    "@sudoo/tslint-config": "^1.5.0",
-    "@types/chai": "^4.1.7",
+    "@sudoo/tslint-config": "^1.5.1",
+    "@types/chai": "^4.2.0",
     "@types/chance": "^1.0.5",
     "@types/mocha": "^5.2.7",
     "@types/node": "^12.7.1",
