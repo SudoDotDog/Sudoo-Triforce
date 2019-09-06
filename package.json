@@ -16,16 +16,16 @@
   },
   "dependencies": {
     "@sudoo/tslint-config": "^1.5.1",
-    "@types/chai": "^4.2.0",
-    "@types/chance": "^1.0.5",
+    "@types/chai": "^4.2.1",
+    "@types/chance": "^1.0.6",
     "@types/mocha": "^5.2.7",
-    "@types/node": "^12.7.1",
+    "@types/node": "^12.7.4",
     "chai": "^4.2.0",
-    "chance": "^1.0.18",
+    "chance": "^1.1.0",
     "mocha": "^5.2.0",
     "ts-node": "^8.3.0",
-    "tslint": "^5.18.0",
-    "typescript": "^3.5.3"
+    "tslint": "^5.19.0",
+    "typescript": "^3.6.2"
   },
   "homepage": "https://github.com/SudoDotDog/Sudoo-Triforce#readme"
 }
