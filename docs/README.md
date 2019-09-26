@@ -4,3 +4,11 @@
 [![downloads](https://img.shields.io/npm/dm/@sudoo/triforce.svg)](https://www.npmjs.com/package/@sudoo/triforce)
 
 :triangular_ruler: Manage dependency here!
+
+## Usage
+
+```sh
+npm install @sudoo/triforce --save-dev
+# Or
+yarn add @sudoo/triforce --dev
+```
