@@ -16,6 +16,7 @@ test
 .vscode
 .travis.yml
 .gitignore
+.git
 package-lock.json
 yarn.lock
 
