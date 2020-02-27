@@ -4,5 +4,8 @@
         "ifeq",
         "sudoo",
         "triforce"
+    ],
+    "cSpell.enableFiletypes": [
+        "makefile"
     ]
 }
