@@ -24,7 +24,7 @@
     "chance": "1.1.4",
     "mocha": "5.2.0",
     "ts-node": "8.6.2",
-    "tslint": "5.20.1",
+    "tslint": "6.0.0",
     "typescript": "3.8.2"
   },
   "homepage": "https://github.com/SudoDotDog/Sudoo-Triforce#readme"
