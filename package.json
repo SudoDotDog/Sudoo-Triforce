@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "@sudoo/tslint-config": "1.6.1",
-    "@types/chai": "4.2.10",
+    "@types/chai": "4.2.11",
     "@types/chance": "1.0.9",
     "@types/mocha": "5.2.7",
     "@types/node": "13.9.1",
