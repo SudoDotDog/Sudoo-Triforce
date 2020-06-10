@@ -19,7 +19,7 @@
     "@types/chai": "4.2.11",
     "@types/chance": "1.1.0",
     "@types/mocha": "5.2.7",
-    "@types/node": "14.0.12",
+    "@types/node": "14.0.13",
     "chai": "4.2.0",
     "chance": "1.1.6",
     "mocha": "5.2.0",
