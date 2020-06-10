@@ -1,6 +1,6 @@
 {
   "name": "@sudoo/triforce",
-  "version": "2.5.0",
+  "version": "2.6.0",
   "description": ":triangular_ruler: Manage dependency here!",
   "repository": {
     "type": "git",
@@ -16,6 +16,7 @@
   },
   "dependencies": {
     "@sudoo/eslint-config": "1.0.0",
+    "@sudoo/eslint-config-react": "^1.0.0",
     "@types/chai": "4.2.11",
     "@types/chance": "1.1.0",
     "@types/mocha": "5.2.7",
