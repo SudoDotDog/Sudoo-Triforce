@@ -5,10 +5,16 @@
 
 :triangular_ruler: Manage dependency here!
 
-## Usage
+## Install
 
 ```sh
 npm install @sudoo/triforce --save-dev
 # Or
 yarn add @sudoo/triforce --dev
 ```
+
+## Usage
+
+Check out the following simple documents for your project needs.
+
+- [Setup Document](/docs/setup.md)
