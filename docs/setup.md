@@ -1,4 +1,4 @@
-# Use out of box Testing and Linting
+# Setup Testing and Linting
 
 Make sure `@sudoo/triforce` package is installed as one of your `devDependencies` in the `package.json`.
 

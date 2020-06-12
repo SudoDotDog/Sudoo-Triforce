@@ -17,4 +17,5 @@ yarn add @sudoo/triforce --dev
 
 Check out the following simple documents for your project needs.
 
-- [Setup Document](/docs/setup.md)
+- [Setup Testing and Linting](/docs/setup.md)
+- [Common CLI Commands](/docs/command.md)
