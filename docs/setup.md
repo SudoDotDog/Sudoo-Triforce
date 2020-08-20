@@ -86,7 +86,7 @@ Create a `.mocharc` file with the following content.
 }
 ```
 
-If your project include React tsx code, add react config as well, please note that the `@sudoo/mocha-config-react` already include all config in `@sudoo/mocha-config`, so, you are not suppose to extends both package.
+If your project include React Web tsx code, add react config as well, please note that the `@sudoo/mocha-config-react` already include all config in `@sudoo/mocha-config`, so, you are not suppose to extends both package.
 
 ```json
 {
@@ -96,6 +96,20 @@ If your project include React tsx code, add react config as well, please note th
     ],
     "extends": [
         "@sudoo/mocha-config-react"
+    ]
+}
+```
+
+If your project include React Native tsx code, add react config as well, please note that the `@sudoo/mocha-config-react-native` already include all config in `@sudoo/mocha-config`, so, you are not suppose to extends both package.
+
+```json
+{
+    "spec": [
+        "test/**/*.test.ts",
+        "test/**/*.test.tsx"
+    ],
+    "extends": [
+        "@sudoo/mocha-config-react-native"
     ]
 }
 ```
