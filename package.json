@@ -1,6 +1,6 @@
 {
   "name": "@sudoo/triforce",
-  "version": "2.7.14",
+  "version": "2.8.0",
   "description": ":triangular_ruler: Manage dependency here!",
   "repository": {
     "type": "git",
@@ -32,7 +32,7 @@
     "eslint-plugin-react": "7.20.6",
     "mocha": "8.1.1",
     "ts-node": "8.10.2",
-    "typescript": "3.9.7"
+    "typescript": "4.0.2"
   },
   "homepage": "https://github.com/SudoDotDog/Sudoo-Triforce#readme"
 }
