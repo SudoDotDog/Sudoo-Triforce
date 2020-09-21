@@ -31,6 +31,21 @@ If your project include React tsx code, add react config as well.
 }
 ```
 
+If you want a11y support with your react project, add react a11y config.
+
+```json
+{
+    "parserOptions": {
+        "project": "./typescript/tsconfig.lint.json"
+    },
+    "extends": [
+        "@sudoo/eslint-config",
+        "@sudoo/eslint-config-react",
+        "@sudoo/eslint-config-react-a11y"
+    ]
+}
+```
+
 The `tsconfig.lint.json` should be similar to your `tsconfig.json` file, you may use that config directly. If the build scope and linting scope is different, you may need to copy it and add more scope `include` and `exclude` options. A example of `tsconfig.lint.json` should look like content below.
 
 ```json
