@@ -1,4 +1,4 @@
-### Setup Lint with Sudoo-Triforce
+# Setup Lint with Sudoo-Triforce
 
 Make sure `@sudoo/triforce` package is installed as one of your `devDependencies` in the `package.json`.
 
