@@ -1,8 +1,8 @@
-# Setup Testing and Linting
+### Setup Lint with Sudoo-Triforce
 
 Make sure `@sudoo/triforce` package is installed as one of your `devDependencies` in the `package.json`.
 
-### Setup eslint for TypeScript
+## Setup ESLint for TypeScript
 
 Create a `.eslintrc` file with the following content.
 
@@ -84,47 +84,4 @@ Finally, a `.eslintignore` file is recommended to add in your `Root` path of you
 ```sh
 # Dependencies
 node_modules
-```
-
-### Setup Mocha for TypeScript
-
-Create a `.mocharc` file with the following content.
-
-```json
-{
-    "spec": [
-        "test/**/*.test.ts"
-    ],
-    "extends": [
-        "@sudoo/mocha-config"
-    ]
-}
-```
-
-If your project include React Web tsx code, add react config as well, please note that the `@sudoo/mocha-config-react` already include all config in `@sudoo/mocha-config`, so, you are not suppose to extends both package.
-
-```json
-{
-    "spec": [
-        "test/**/*.test.ts",
-        "test/**/*.test.tsx"
-    ],
-    "extends": [
-        "@sudoo/mocha-config-react"
-    ]
-}
-```
-
-If your project include React Native tsx code, add react config as well, please note that the `@sudoo/mocha-config-react-native` already include all config in `@sudoo/mocha-config`, so, you are not suppose to extends both package.
-
-```json
-{
-    "spec": [
-        "test/**/*.test.ts",
-        "test/**/*.test.tsx"
-    ],
-    "extends": [
-        "@sudoo/mocha-config-react-native"
-    ]
-}
 ```
