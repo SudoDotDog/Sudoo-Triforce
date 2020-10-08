@@ -18,3 +18,7 @@ install:
 install-prod:
 	@echo "[INFO] Installing Dependencies"
 	@yarn install --production=true
+
+outdated:
+	@echo "[INFO] Checking Outdated Dependencies"
+	@yarn outdated
