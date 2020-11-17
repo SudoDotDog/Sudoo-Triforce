@@ -4,7 +4,7 @@ run:
 	@echo "[INFO] Nothing to run"
 
 install:
-	@echo "[INFO] Installing Development Dependencies"
+	@echo "[INFO] Installing Dependencies"
 	@yarn install --production=false
 
 outdated: install
