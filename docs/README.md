@@ -15,6 +15,8 @@ yarn add @sudoo/triforce --dev
 
 ## Usage
 
+Triforce is a package that supports development under typescript environment.
+
 Check out the following documents for your project needs.
 
 -   [Setup Testing](./test.md)
