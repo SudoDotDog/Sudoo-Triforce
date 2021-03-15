@@ -1,7 +1,7 @@
 {
   "name": "@sudoo/triforce",
   "version": "2.9.19",
-  "description": ":triangular_ruler: Manage dependency here!",
+  "description": ":triangular_ruler: Base dependencies for TypeScript developments",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/SudoDotDog/Sudoo-Triforce.git"

@@ -3,7 +3,7 @@
 [![npm version](https://badge.fury.io/js/%40sudoo%2Ftriforce.svg)](https://www.npmjs.com/package/@sudoo/triforce)
 [![downloads](https://img.shields.io/npm/dm/@sudoo/triforce.svg)](https://www.npmjs.com/package/@sudoo/triforce)
 
-:triangular_ruler: Manage dependency here!
+:triangular_ruler: Base dependencies for TypeScript developments
 
 ## Install
 
