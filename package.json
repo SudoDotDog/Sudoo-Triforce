@@ -1,6 +1,6 @@
 {
   "name": "@sudoo/triforce",
-  "version": "2.9.20",
+  "version": "2.9.21",
   "description": ":triangular_ruler: Base dependencies for TypeScript developments",
   "repository": {
     "type": "git",
