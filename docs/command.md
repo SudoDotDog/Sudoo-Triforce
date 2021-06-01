@@ -15,7 +15,7 @@ eslint := node_modules/.bin/eslint
 tests:
 	@echo "[INFO] Testing with Mocha"
 	@NODE_ENV=test \
-    $(mocha) --config test/.mocharc.json
+    	$(mocha) --config test/.mocharc.json
 
 cov:
 	@echo "[INFO] Testing with Nyc and Mocha"
@@ -25,14 +25,14 @@ cov:
 lint:
 	@echo "[INFO] Linting"
 	@NODE_ENV=production \
-    $(eslint) \
-    . --ext .ts,.tsx --config ./typescript/.eslintrc.json
+    	$(eslint) \
+    	. --ext .ts,.tsx --config ./typescript/.eslintrc.json
 
 lint-fix:
 	@echo "[INFO] Linting and Fixing"
-    @NODE_ENV=development \
+    	@NODE_ENV=development \
 	$(eslint) \
-    . --ext .ts,.tsx --config ./typescript/.eslintrc.json --fix
+    	. --ext .ts,.tsx --config ./typescript/.eslintrc.json --fix
 ```
 
 ## Testing
