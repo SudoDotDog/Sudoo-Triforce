@@ -11,9 +11,7 @@ Create a `.mocharc` file with the following content.
     "spec": [
         "test/**/*.test.ts"
     ],
-    "extends": [
-        "@sudoo/mocha-config"
-    ]
+    "extends": "@sudoo/mocha-config"
 }
 ```
 
@@ -25,9 +23,7 @@ If your project include React Web tsx code, add react config as well, please not
         "test/**/*.test.ts",
         "test/**/*.test.tsx"
     ],
-    "extends": [
-        "@sudoo/mocha-config-react"
-    ]
+    "extends": "@sudoo/mocha-config-react"
 }
 ```
 
@@ -39,8 +35,6 @@ If your project include React Native tsx code, add react config as well, please 
         "test/**/*.test.ts",
         "test/**/*.test.tsx"
     ],
-    "extends": [
-        "@sudoo/mocha-config-react-native"
-    ]
+    "extends": "@sudoo/mocha-config-react-native"
 }
 ```
