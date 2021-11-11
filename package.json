@@ -1,6 +1,6 @@
 {
   "name": "@sudoo/triforce",
-  "version": "2.15.1",
+  "version": "2.16.0",
   "description": "Base dependencies for TypeScript developments",
   "repository": {
     "type": "git",
