@@ -29,7 +29,7 @@
     "@typescript-eslint/parser": "5.4.0",
     "chai": "4.3.4",
     "chance": "1.1.8",
-    "concurrently": "^6.3.0",
+    "concurrently": "^6.4.0",
     "cross-env": "^7.0.3",
     "eslint": "8.2.0",
     "eslint-plugin-jsx-a11y": "6.5.1",
