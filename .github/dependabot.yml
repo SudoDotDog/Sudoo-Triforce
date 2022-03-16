@@ -1,27 +1,8 @@
 version: 2
 updates:
-- package-ecosystem: npm
-  directory: "/"
-  schedule:
-    interval: daily
-  open-pull-requests-limit: 10
-  versioning-strategy: increase
-  ignore:
-  - dependency-name: mocha
-    versions:
-    - ">= 6.a, < 7"
-  - dependency-name: mocha
-    versions:
-    - ">= 7.a, < 8"
-  - dependency-name: tslint
-    versions:
-    - ">= 6.a, < 7"
-  - dependency-name: "@types/mocha"
-    versions:
-    - ">= 7.a, < 8"
-  - dependency-name: "@types/node"
-    versions:
-    - 15.0.0
-  - dependency-name: eslint
-    versions:
-    - 7.23.0
+  - package-ecosystem: npm
+    directory: "/"
+    schedule:
+      interval: daily
+    open-pull-requests-limit: 10
+    versioning-strategy: increase
