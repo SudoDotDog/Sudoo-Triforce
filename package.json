@@ -25,7 +25,7 @@
     "@types/chai": "4.3.6",
     "@types/chance": "1.1.4",
     "@types/mocha": "10.0.2",
-    "@types/node": "20.7.1",
+    "@types/node": "20.7.2",
     "@typescript-eslint/eslint-plugin": "6.7.3",
     "@typescript-eslint/parser": "6.7.3",
     "chai": "4.3.9",
