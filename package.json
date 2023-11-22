@@ -22,7 +22,7 @@
     "@sudoo/mocha-config-react": "4.0.0",
     "@sudoo/mocha-config-react-native": "3.1.0",
     "@sudoo/tsconfig": "1.6.0",
-    "@types/chai": "4.3.10",
+    "@types/chai": "4.3.11",
     "@types/chance": "1.1.6",
     "@types/mocha": "10.0.5",
     "@types/node": "20.9.2",
