@@ -20,7 +20,7 @@
     "@sudoo/eslint-config-react-a11y": "1.0.0",
     "@sudoo/mocha-config": "3.1.0",
     "@sudoo/mocha-config-react": "4.0.0",
-    "@sudoo/mocha-config-react-native": "3.1.0",
+    "@sudoo/mocha-config-react-native": "3.2.0",
     "@sudoo/tsconfig": "1.6.0",
     "@types/chai": "4.3.11",
     "@types/chance": "1.1.6",
