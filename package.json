@@ -37,7 +37,7 @@
     "mocha": "10.7.0",
     "nyc": "17.0.0",
     "ts-node": "10.9.2",
-    "typescript": "5.5.3"
+    "typescript": "5.5.4"
   },
   "homepage": "https://github.com/SudoDotDog/Sudoo-Triforce#readme"
 }
