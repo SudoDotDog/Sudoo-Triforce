@@ -33,7 +33,7 @@
     "cross-env": "7.0.3",
     "eslint": "9.8.0",
     "eslint-plugin-jsx-a11y": "6.9.0",
-    "eslint-plugin-react": "7.34.3",
+    "eslint-plugin-react": "7.35.0",
     "mocha": "10.7.3",
     "nyc": "17.0.0",
     "ts-node": "10.9.2",
